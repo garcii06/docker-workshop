@@ -1,2 +1,3 @@
 # docker-workshop
-DE Zoomcamp Codespaces
+Docker related things in codespaces.
+It was only setup for me to do testing, training and learning.
